@@ -11,6 +11,7 @@
   inputs.src-mdevolve-master.ref   = "refs/heads/master";
   inputs.src-mdevolve-master.owner = "jxy";
   inputs.src-mdevolve-master.repo  = "MDevolve";
+  inputs.src-mdevolve-master.dir   = "";
   inputs.src-mdevolve-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
