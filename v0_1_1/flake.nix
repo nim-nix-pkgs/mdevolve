@@ -11,7 +11,6 @@
   inputs.src-mdevolve-v0_1_1.ref   = "refs/tags/v0.1.1";
   inputs.src-mdevolve-v0_1_1.owner = "jxy";
   inputs.src-mdevolve-v0_1_1.repo  = "MDevolve";
-  inputs.src-mdevolve-v0_1_1.dir   = "";
   inputs.src-mdevolve-v0_1_1.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
