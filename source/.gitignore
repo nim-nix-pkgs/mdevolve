@@ -1,0 +1,12 @@
+nimcache/
+test_v0
+tshared_v0
+t000leapfrog
+t001rleapfrog
+t002recursive
+t003forcegradient
+t004sharedTest
+t005shared
+t006approximateFG
+t007combo
+doc/devel
